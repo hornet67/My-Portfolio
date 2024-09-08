@@ -4,9 +4,9 @@
 This is a resume project.In the project u can dynamically add your works with descriptions and showcase them.This kind of project is usually used to be shown in job recitment.
 
 # Techonologies
-1)Bootstrap
-2)python-django
-3)sqlite
+1.Bootstrap
+2.python-django
+3.sqlite
 
 # How to run the project 
 #git clone the project
